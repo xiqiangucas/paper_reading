@@ -3,6 +3,10 @@
 
 ##  Deep Learning
 
+###  Text Classification
+###  Text Generating
+
+
 ##  Social Network
 
 ##  Recommendation Systems

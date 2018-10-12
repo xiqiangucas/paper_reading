@@ -9,7 +9,7 @@
 ### Convolutional Neural Network
 ### Recurrent Neural Network
 ### Deep Semantic Similarity Model
-
+- Po-Sen Huang,Xiaodong He, Jianfeng Gao, Li Deng,Alex Acero, Larry Heck. "[Learning deep structured semantic models for web search using clickthrough data](https://www.researchgate.net/publication/262289160_Learning_deep_structured_semantic_models_for_web_search_using_clickthrough_data)."(2013).
 ### Restricted Boltzmann Machine
 ### Autoregressive model
 ### Generative Adversarial Network

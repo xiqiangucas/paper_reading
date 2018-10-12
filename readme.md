@@ -25,6 +25,8 @@
 - Po-Sen Huang,Xiaodong He, Jianfeng Gao, Li Deng,Alex Acero, Larry Heck. "[Learning deep structured semantic models for web search using clickthrough data](https://www.researchgate.net/publication/262289160_Learning_deep_structured_semantic_models_for_web_search_using_clickthrough_data)."(2013).
 - Zhenghua Xu,Cheng Chen,Thomas Lukasiewicz,Yishu Miao,Xiangwu Meng."[Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling](https://ora.ox.ac.uk/catalog/uuid:f64f71ec-a0f3-4c0a-a793-f55e0215ddb3/download_file?file_format=pdf&safe_filename=shp0489-xuA.pdf&type_of_work=Conference+item)."(2016).
 - Ali Elkahky,Yang Song, Xiaodong He."[A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems](http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf)."(2015).
+- Cheng Chen, Xiangwu Meng, Zhenghua Xu,Thomas Lukasiewicz."[Location-Aware Personalized News Recommendation with Deep Semantic Analysis](https://ora.ox.ac.uk/catalog/uuid:fcb2e3ce-f7de-471f-bae4-408f6c1ec7a3/download_file?file_format=pdf&safe_filename=07823033.pdf&type_of_work=Journal+article)."(2017).
+
 
 #  Deep Reinforcement Learning
 

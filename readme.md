@@ -16,6 +16,10 @@
 
 ##  Application
 ###  Text Classification
+- Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao."[Recurrent Convolutional Neural Networks for Text Classification](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552)."(Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence 2015)
+- Nal Kalchbrenner, Edward Grefenstette."[A Convolutional Neural Network for Modelling Sentences](https://aclweb.org/anthology/P/P14/P14-1062.xhtml)."(ACL2014)
+- Ye Zhang, Byron C. Wallace. "[A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://cn.arxiv.org/abs/1510.03820)."(2016)
+
 ###  Text Generating
 
 #  Social Network

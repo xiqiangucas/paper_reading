@@ -33,6 +33,8 @@
 - Pengfei Liu, Xipeng Qiu, Xuanjing Huang."[Recurrent Neural Network for Text Classification with Multi-Task Learning](http://cn.arxiv.org/abs/1605.05101)."(arXiv 2016)
 - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean."[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)."(arXiv 2013)
 - Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean."[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)."(arXiv 2013)
+- Jeffrey Pennington, Richard Socher, and Christopher D. Manning."[ GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)."(2014)
+- Quoc V. Le, Tomas Mikolov."[Distributed Representations of Sentences and Documents](https://arxiv.org/abs/1405.4053)."(arViv 2014)
 - Rie Johnson, Tong Zhang."[Deep Pyramid Convolutional Neural Networks for Text Categorization](http://riejohnson.com/paper/dpcnn-acl17.pdf)."(Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics. 2017)
 - Honglun Zhang, Liqiang Xiao, Wenqing Chen, Yongkun Wang, Yaohui Jin."[Multi-Task Label Embedding for Text Classification](https://arxiv.org/abs/1710.07210)"(arXiv 2017)
 - Jeremy Howard, Sebastian Ruder."[Fine-tuned Language Models for Text Classification](http://cn.arxiv.org/abs/1801.06146v1)."(arXiv 2018)
@@ -49,6 +51,10 @@
 - Hao Peng, Jianxin Li, Yu He, Yaopeng Liu, Mengjiao Bao, Lihong Wang, Yangqiu Song, Qiang Yang."[Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN](https://dblp.org/rec/conf/www/PengLHLBWS018)."(Proceedings of the 2018 World Wide Web Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2018)
 - Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer."[Deep contextualized word representations](https://arxiv.org/abs/1802.05365?context=cs)."(arXiv 2018)
 - Jeremy Howard, Sebastian Ruder."[Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146v4)."(Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics. 2018)
+- Chenglong Wang, Feijun Jiang, Hongxia Yang."[A Hybrid Framework for Text Modeling with Convolutional RNN](https://dl.acm.org/ft_gateway.cfm?id=3098140&ftid=1899120&dwn=1&CFID=83973037&CFTOKEN=1f9faf5656ed7b0c-A70D30BF-ED05-850F-394E848EFEC48321)."(KDD 2017)
+- Ying Wen, Weinan Zhang, Rui Luo, Jun Wang."[Learning text representation using recurrent convolutional neural network with highway layers](https://arxiv.org/abs/1606.06905)."(arXiv 2016)
+- Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber."[Highway Networks](https://arxiv.org/abs/1505.00387)."(arXiv 2015)
+- Chunting Zhou, Chonglin Sun, Zhiyuan Liu, Francis C.M. Lau."[A C-LSTM Neural Network for Text Classification](https://arxiv.org/abs/1511.08630)."(arXiv 2015)
 
 
 

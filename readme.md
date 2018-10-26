@@ -46,6 +46,7 @@
 - Hoa T. Le, Christophe Cerisara, Alexandre Denis."[Do Convolutional Networks need to be Deep for Text Classification](https://arxiv.org/abs/1707.04108)."(arXiv 2017)
 - Wei Zhao, Jianbo Ye, Min Yang, Zeyang Lei, Suofei Zhang, Zhou Zhao."[Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/abs/1804.00538)."(arXiv 2018)
 - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin."[Attention Is All You Need](https://arxiv.org/abs/1706.03762)."(arXiv 2017)
+	- https://github.com/bojone/attention/blob/master/attention_tf.py
 - BaoxinWang."[Disconnected Recurrent Neural Networks for Text Categorization](http://aclweb.org/anthology/P18-1215)"(ACL 2018)
 - Siddharth Gopal,Yiming Yang."[Recursive regularization for large-scale classification with hierarchical and graphical dependencies](https://dl.acm.org/ft_gateway.cfm?id=2487644&ftid=1388285&dwn=1&CFID=83973037&CFTOKEN=1f9faf5656ed7b0c-A70D30BF-ED05-850F-394E848EFEC48321)."(KDD 2013)
 - Hao Peng, Jianxin Li, Yu He, Yaopeng Liu, Mengjiao Bao, Lihong Wang, Yangqiu Song, Qiang Yang."[Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN](https://dblp.org/rec/conf/www/PengLHLBWS018)."(Proceedings of the 2018 World Wide Web Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2018)

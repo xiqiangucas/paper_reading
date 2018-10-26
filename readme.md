@@ -46,6 +46,7 @@
 - Hoa T. Le, Christophe Cerisara, Alexandre Denis."[Do Convolutional Networks need to be Deep for Text Classification](https://arxiv.org/abs/1707.04108)."(arXiv 2017)
 - Wei Zhao, Jianbo Ye, Min Yang, Zeyang Lei, Suofei Zhang, Zhou Zhao."[Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/abs/1804.00538)."(arXiv 2018)
 - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin."[Attention Is All You Need](https://arxiv.org/abs/1706.03762)."(arXiv 2017)
+	- interpretation: https://mp.weixin.qq.com/s/q3OVJypM6HZQc58JpKJgVA
 	- tensorflow: https://github.com/bojone/attention/blob/master/attention_tf.py
 	- keras: https://github.com/bojone/attention/blob/master/attention_keras.py
 - BaoxinWang."[Disconnected Recurrent Neural Networks for Text Categorization](http://aclweb.org/anthology/P18-1215)"(ACL 2018)

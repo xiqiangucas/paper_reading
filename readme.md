@@ -26,6 +26,8 @@
 - Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, Eduard Hovy."[Hierarchical attention networks for document classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)."(Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016)
 - Chao Qiao, Bo Huang, Guocheng Niu, Daren Li,Daxiang Dong, Wei He, Dianhai Yu, HuaWu."[A NEW METHOD OF REGION EMBEDDING FOR TEXT CLASSIFICATION](http://openreview.net/pdf?id=BkSDMA36Z)."(ICLR 2018)
 - Wenpeng Yin, Hinrich Schütze."[Attentive Convolution](https://arxiv.org/abs/1710.00519?context=cs)."(arXiv 2017)
+	- interpretation: https://blog.csdn.net/b224618/article/details/81237909
+	- code: https://github.com/yinwenpeng/Attentive_Convolution
 - Yang Liu, Mirella Lapata."[Learning Structured Text Representations](https://arxiv.org/abs/1705.09207)."(arXiv 2017)
 - Alexis Conneau, Holger Schwenk, Loïc Barrault, Yann Lecun."[Very Deep Convolutional Networks for Text Classification](http://cn.arxiv.org/abs/1606.01781)."(Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics. 2017)
 - Xiang Zhang, Junbo Zhao, Yann LeCun."[Character-level Convolutional Networks for Text Classification](https://www.researchgate.net/publication/281607724_Character-level_Convolutional_Networks_for_Text_Classification)."(International Conference on Neural Information processing systems, 2015)

@@ -67,7 +67,7 @@
 - Chunting Zhou, Chonglin Sun, Zhiyuan Liu, Francis C.M. Lau."[A C-LSTM Neural Network for Text Classification](https://arxiv.org/abs/1511.08630)."(arXiv 2015)
 - Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio."[A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)."(ICLR 2017)
 - Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin."[Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)."(arXiv 2017)
-
+- Cicero dos Santos, Ming Tan, Bing Xiang, Bowen Zhou."[Attentive Pooling Networks](https://arxiv.org/abs/1602.03609)."(arXiv 2016)
 
 ###  Text Generating
 

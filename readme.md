@@ -2,6 +2,16 @@
 ### Startups
   - [论文阅读，类别包括深度学习、社会网络、推荐系统等]
 
+# Resource
+## Natural Language Processing
+### http://www.52nlp.cn/resources
+
+#  Nutural Language Processing
+
+## Topic model
+- MD Hoffman, DM Blei, F Bach."[Online learning for Latent Dirichlet Allocation](https://www.researchgate.net/publication/221618332_Online_Learning_for_Latent_Dirichlet_Allocation)."(NIPS, 2010)
+
+
 #  Deep Learning
 
 ##  Model

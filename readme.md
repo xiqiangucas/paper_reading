@@ -93,6 +93,9 @@
 - Marijtje A. J. van Duijn, Evelien P. H. Zeggelink, Mark Huisman, Frans N. Stokman, Frans W. Wasseur."[Evolution of sociology freshmen into a friendship network](https://www.researchgate.net/publication/30474862_Evolution_of_Sociology_Freshmen_into_a_Friendship_Network)."(Journal of Mathematical Sociology, 2003)
 - JJ Sijtsema, T Ojanen, R Veenstra, S Lindenberg, PH Hawley."[Forms and functions of aggression in adolescent friendship selection and influence: A longitudinal social network analysis](http://pdfs.semanticscholar.org/3989/d7dd5b3dc6ca74ab5a06065ea389a08d728f.pdf)."(Social Development ,2010)
 
+## Reply Network
+- Kou Zhongbao,Changshui Zhang."[Reply networks on a bulletin board system](https://www.researchgate.net/publication/10810666_Reply_networks_on_a_bulletin_board_system)."(Physical Review E, 2003)
+
 #  Recommendation Systems
 - Shuai Zhang, Lina Yao, Aixin Sun, Yi Tay."[Deep Learning based Recommender System: A Survey and New Perspectives](http://cn.arxiv.org/abs/1707.07435)."(2017).
 - Po-Sen Huang,Xiaodong He, Jianfeng Gao, Li Deng,Alex Acero, Larry Heck. "[Learning deep structured semantic models for web search using clickthrough data](https://www.researchgate.net/publication/262289160_Learning_deep_structured_semantic_models_for_web_search_using_clickthrough_data)."(2013).

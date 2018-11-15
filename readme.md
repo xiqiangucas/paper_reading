@@ -86,6 +86,7 @@
 
 #  Social Network
 ## statistical models for social networks
+- Tom A.B. Snijders."[Stochastic Actor-Oriented Models for Network Dynamics]( http://dx.doi.org/10.1146/annurev-statistics-060116-054035)."(Annual Review of Statistics and Its Application, 2017)
 - T Snijders."[Statistical Models for Social Networks](https://www.researchgate.net/publication/228173889_Statistical_Models_for_Social_Networks)."(Annual Review of Sociology, 2011) 
 - Garry Robins, Pip Pattison, Yuval Kalish, Dean Lusher."[An introduction to exponential random graph models for social networks](https://www.sciencedirect.com/science/article/pii/S0378873306000372?via%3Dihub)."(Social Networks, 2007)
 - Tom A.B.Snijdersa, Gerhard G.van de Buntb, Christian E.G.Steglichc."[Introduction to stochastic actor-based models for network dynamics](https://www.sciencedirect.com/science/article/pii/S0378873309000069)."(Social Networks 2010)

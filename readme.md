@@ -8,6 +8,7 @@
 ## network
 ### http://snap.stanford.edu/snappy/index.html
 ### http://www.stats.ox.ac.uk/~snijders/siena/
+### http://tuvalu.santafe.edu/~aaronc/powerlaws/
 
 #  Nutural Language Processing
 

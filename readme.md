@@ -9,6 +9,8 @@
 ### http://snap.stanford.edu/snappy/index.html
 ### http://www.stats.ox.ac.uk/~snijders/siena/
 ### http://tuvalu.santafe.edu/~aaronc/powerlaws/
+### http://www-personal.umich.edu/~mejn/
+
 
 #  Nutural Language Processing
 

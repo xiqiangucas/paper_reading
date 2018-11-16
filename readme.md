@@ -85,6 +85,8 @@
 ###  Text Generating
 
 #  Social Network
+-  Kurka, David Burth，Von Zuben, Fernando J，Godoy, Alan."[Online Social Network Analysis: A Survey of Research Applications in Computer Science](https://arxiv.org/abs/1504.05655)." (arXiv 2015)
+
 ## statistical models for social networks
 - Tom A.B. Snijders."[Stochastic Actor-Oriented Models for Network Dynamics]( http://dx.doi.org/10.1146/annurev-statistics-060116-054035)."(Annual Review of Statistics and Its Application, 2017)
 - T Snijders."[Statistical Models for Social Networks](https://www.researchgate.net/publication/228173889_Statistical_Models_for_Social_Networks)."(Annual Review of Sociology, 2011) 
@@ -95,6 +97,8 @@
 
 ## Reply Network
 - Kou Zhongbao,Changshui Zhang."[Reply networks on a bulletin board system](https://www.researchgate.net/publication/10810666_Reply_networks_on_a_bulletin_board_system)."(Physical Review E, 2003)
+-  Yang, Yang，Chen, Qiang，Liu, Wenjie."[The structural evolution of an online discussion network](https://www.sciencedirect.com/science/article/pii/S0378437110007442)."(Physica A 2010)
+-  Rony Medaglia，Yang Yang."[Online Public Deliberation in China: Evolution of Interaction Patterns and Network Homophily in the Tianya Discussion Forum](http://research.cbs.dk/files/44889310/rony_medaglia_online_public_deliberation_in_china_postprint.pdf)."(Information, Communication and Society, 2016)
 
 #  Recommendation Systems
 - Shuai Zhang, Lina Yao, Aixin Sun, Yi Tay."[Deep Learning based Recommender System: A Survey and New Perspectives](http://cn.arxiv.org/abs/1707.07435)."(2017).

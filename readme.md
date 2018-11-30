@@ -90,8 +90,10 @@
 #  Social Network
 -  Kurka, David Burth，Von Zuben, Fernando J，Godoy, Alan."[Online Social Network Analysis: A Survey of Research Applications in Computer Science](https://arxiv.org/abs/1504.05655)." (arXiv 2015)
 - Aaron Clauset, Cosma Rohilla Shalizi, M. E. J. Newman."[Power-law distributions in empirical data](https://arxiv.org/abs/0706.1062)."(arXiv 2007)
+   - https://github.com/jeffalstott/powerlaw
+   - http://tuvalu.santafe.edu/~aaronc/powerlaws/
 - Ruth M. Ripley, Tom A.B. Snijders, Zsofia Boda, Andrs Voros, Paulina Preciado."[Manual for RSiena](http://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf)"
-
+   - http://www.stats.ox.ac.uk/~snijders/siena/ 
 ## statistical models for social networks
 - Tom A.B. Snijders."[Stochastic Actor-Oriented Models for Network Dynamics]( http://dx.doi.org/10.1146/annurev-statistics-060116-054035)."(Annual Review of Statistics and Its Application, 2017)
 - T Snijders."[Statistical Models for Social Networks](https://www.researchgate.net/publication/228173889_Statistical_Models_for_Social_Networks)."(Annual Review of Sociology, 2011) 

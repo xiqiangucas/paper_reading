@@ -50,7 +50,7 @@
 - Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio."[Neural Machine Translation by Jointly Learning to Align and Translate](http://cn.arxiv.org/abs/1409.0473)."(ArXiv 2014)
 - Pengfei Liu, Xipeng Qiu, Xuanjing Huang."[Recurrent Neural Network for Text Classification with Multi-Task Learning](http://cn.arxiv.org/abs/1605.05101)."(arXiv 2016)
 - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean."[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)."(arXiv 2013)
-	-解读：https://blog.csdn.net/itplus/article/details/37998797
+	- 解读：https://blog.csdn.net/itplus/article/details/37998797
 - Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean."[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)."(arXiv 2013)
 - Jeffrey Pennington, Richard Socher, and Christopher D. Manning."[ GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)."(2014)
 - Quoc V. Le, Tomas Mikolov."[Distributed Representations of Sentences and Documents](https://arxiv.org/abs/1405.4053)."(arViv 2014)

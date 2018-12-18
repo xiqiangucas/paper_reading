@@ -103,6 +103,14 @@
 - Marijtje A. J. van Duijn, Evelien P. H. Zeggelink, Mark Huisman, Frans N. Stokman, Frans W. Wasseur."[Evolution of sociology freshmen into a friendship network](https://www.researchgate.net/publication/30474862_Evolution_of_Sociology_Freshmen_into_a_Friendship_Network)."(Journal of Mathematical Sociology, 2003)
 - JJ Sijtsema, T Ojanen, R Veenstra, S Lindenberg, PH Hawley."[Forms and functions of aggression in adolescent friendship selection and influence: A longitudinal social network analysis](http://pdfs.semanticscholar.org/3989/d7dd5b3dc6ca74ab5a06065ea389a08d728f.pdf)."(Social Development ,2010)
 
+##tutorial of network statistical model software
+- statnet: https://statnet.org/trac/wiki/Resources
+- Mark S. Handcock, David R. Hunter, Carter T. Butts, Steven M. Goodreau, Martina Morris."[statnet: Software Tools for the Representation, Visualization, Analysis and Simulation of Network Data](https://www.jstatsoft.org/article/view/v024i01)."(2008)
+- Carter T. Butts."[network: A Package for Managing Relational Data in R](https://www.jstatsoft.org/article/view/v024i02)."(2008)
+- David R. Hunter, Mark S. Handcock, Carter T. Butts, Steven M. Goodreau, Martina Morris."[ergm: A Package to Fit, Simulate and Diagnose Exponential-Family Models for Networks](https://www.jstatsoft.org/article/view/v024i03)."(2008)
+- Martina Morris, Mark S. Handcock, David R. Hunter."[Specification of Exponential-Family Random Graph Models: Terms and Computational Aspects](https://www.jstatsoft.org/article/view/v024i04)."(2008)
+
+
 ## Reply Network
 - Kou Zhongbao,Changshui Zhang."[Reply networks on a bulletin board system](https://www.researchgate.net/publication/10810666_Reply_networks_on_a_bulletin_board_system)."(Physical Review E, 2003)
 -  Yang, Yang，Chen, Qiang，Liu, Wenjie."[The structural evolution of an online discussion network](https://www.sciencedirect.com/science/article/pii/S0378437110007442)."(Physica A 2010)

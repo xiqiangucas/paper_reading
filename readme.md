@@ -96,6 +96,8 @@
 - Ruth M. Ripley, Tom A.B. Snijders, Zsofia Boda, Andrs Voros, Paulina Preciado."[Manual for RSiena](http://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf)"
    - http://www.stats.ox.ac.uk/~snijders/siena/ 
 ## statistical models for social networks
+- Davis JA, Leinhardt S (1972)."[The Structure of Positive Interpersonal Relations in Small Groups](http://files.eric.ed.gov/fulltext/ED024086.pdf)."(In J Berger (ed.), Sociological Theories in Progress, Volume 2," pp. 218-251.Houghton Mifflin, Boston.)
+- Holland PW, Leinhardt S (1981)."[An Exponential Family of Probability Distributions for Directed Graphs](http://pdfs.semanticscholar.org/da15/b9ef1b2e6ff9cfb2c17df4367d60f65dfc5f.pdf)."(Journal of the American Statistical Association, 76(373), 33-65.)
 - Tom A.B. Snijders."[Stochastic Actor-Oriented Models for Network Dynamics]( http://dx.doi.org/10.1146/annurev-statistics-060116-054035)."(Annual Review of Statistics and Its Application, 2017)
 - T Snijders."[Statistical Models for Social Networks](https://www.researchgate.net/publication/228173889_Statistical_Models_for_Social_Networks)."(Annual Review of Sociology, 2011) 
 - Garry Robins, Pip Pattison, Yuval Kalish, Dean Lusher."[An introduction to exponential random graph models for social networks](https://www.sciencedirect.com/science/article/pii/S0378873306000372?via%3Dihub)."(Social Networks, 2007)

@@ -17,6 +17,11 @@
 ## Topic model
 - MD Hoffman, DM Blei, F Bach."[Online learning for Latent Dirichlet Allocation](https://www.researchgate.net/publication/221618332_Online_Learning_for_Latent_Dirichlet_Allocation)."(NIPS, 2010)
 
+## Representation model
+- Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer."[Deep contextualized word representations](https://arxiv.org/abs/1802.05365)."(In arXiv: 1802.05365. 2018)
+- Jeremy Howard, Sebastian Ruder."[Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)."(In arXiv: 1801.06146. 2018)
+- Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever."[Improving Language Understanding by Generative Pre-Training](http://openai-assets.s3.amazonaws.com/research-covers/language-unsupervised/language_understanding_paper.pdf)."(2018)
+- Sara Sabour, Nicholas Frosst, Geoffrey E Hinton."[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)."(In arXiv: 1710.09829. 2017)
 
 #  Deep Learning
 

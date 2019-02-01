@@ -23,10 +23,14 @@
 - Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever."[Improving Language Understanding by Generative Pre-Training](http://openai-assets.s3.amazonaws.com/research-covers/language-unsupervised/language_understanding_paper.pdf)."(2018)
 - Sara Sabour, Nicholas Frosst, Geoffrey E Hinton."[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)."(In arXiv: 1710.09829. 2017)
 - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova."[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)."(In arXiv: 1810.04805. 2018)
+- Wei Wu, Yuxian Meng, Qinghong Han, Muyu Li, Xiaoya Li, Jie Mei, Ping Nie, Xiaofei Sun, Jiwei Li."[Glyce: Glyph-vectors for Chinese Character Representations](https://arxiv.org/abs/1901.10125)."(In arXiv: 1901.10125. 2019)
+	- https://mp.weixin.qq.com/s/krW1eUFu7iz9YyYFGbFVeQ
 
 #  Deep Learning
 ## Survey
-- Quanming Yao, Mengshuo Wang, Yuqiang Chen, Wenyuan Dai, Hu Yi-Qi, Li Yu-Feng, Tu Wei-Wei, Yang Qiang, Yu Yang."[Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306?context=stat)."(In arXiv: 1810.13306. 2018)
+- Quanming Yao, Mengshuo Wang, Yuqiang Chen, Wenyuan Dai, Hu Yi-Qi, Li Yu-Feng, Tu Wei-Wei, Yang Qiang, Yu Yang."[Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306?context=stat)."(In arXiv: 1810.13306. 2018)(no)
+- He Huang, Philip S. Yu, Changhu Wang."[An Introduction to Image Synthesis with Generative Adversarial Nets](https://arxiv.org/abs/1803.04469)."(In arXiv: 1803.04469. 2018)(no)
+	- https://mp.weixin.qq.com/s/C1RnwFOe3AM0JguH_auviA
 ##  Model
 ### Autoencoder
 ### Convolutional Neural Network
